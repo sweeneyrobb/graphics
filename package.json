@@ -1,0 +1,27 @@
+{
+  "name": "wutzdoin",
+  "version": "1.0.0",
+  "description": "Project for the WutzDoin website.",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^2.4.0",
+    "imagemin-pngquant": "^4.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophcon/wutzdoin.git"
+  },
+  "author": "Sophcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophcon/wutzdoin/issues"
+  },
+  "homepage": "http://wutzdoin.com"
+}
